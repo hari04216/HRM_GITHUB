@@ -151,8 +151,10 @@ public class CreateAdmin05 extends BaseClass {
 
 		// terminate the browser
 		driver.quit();
+		
 
 	}
 	*/
+		System.out.println("hi");
 }
 }
